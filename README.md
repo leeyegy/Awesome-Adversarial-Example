@@ -10,4 +10,4 @@ Paper of Adversarial Example
 
 2.Adversarial Training for Free!(NIPS19)[[PDF](http://papers.nips.cc/paper/8597-adversarial-training-for-free.pdf)][[CODE](https://github.com/mahyarnajibi/FreeAdversarialTraining)]
 
-3.Single-step Adversarial training with Dropout Scheduling (CVPR20)[[PDF](https://openaccess.thecvf.com/content_CVPR_2020/papers/B.S._Single-Step_Adversarial_Training_With_Dropout_Scheduling_CVPR_2020_paper.pdf)]
+3.Single-step Adversarial training with Dropout Scheduling (CVPR20)[[PDF](https://openaccess.thecvf.com/content_CVPR_2020/papers/B.S._Single-Step_Adversarial_Training_With_Dropout_Scheduling_CVPR_2020_paper.pdf)][[INTRO](https://leeyegy.github.io/2020/09/CVPR20-FAT-Single-Step-Adversarial-Training/)]
